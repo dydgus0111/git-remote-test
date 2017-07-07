@@ -1,5 +1,6 @@
-//For command line git tutorial
-//Local repository modification
+//for command line git tutorial
+//First : Local repository modification
+//Second : GitHUb modification
 
 #include <stdio.h>
 
