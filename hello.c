@@ -1,3 +1,6 @@
+//for command line git tutorial
+//GitHUb modification
+
 #include <stdio.h>
 
 void main()
