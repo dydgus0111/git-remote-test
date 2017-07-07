@@ -10,4 +10,5 @@ void main()
 	printf("First Branch!!");
 	printf("Master Branch Id");
 	printf("Hotfix Branch ID");
+	printf("Git Pull Test");
 }
